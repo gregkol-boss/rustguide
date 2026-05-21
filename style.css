@@ -1,18 +1,52 @@
-h1{
-    color: red;
-    text-align: center;
+.nigger{
+    display: flex;
+    align-items: top;
+    margin-bottom: 20px;
+    font-size: 25px;
+    color: black;
+    background-color: crimson;
 }
-body {
-    background-color: rgb(0, 0, 0);
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playwrite+NO:wght@100..400&family=Rubik+Spray+Paint&display=swap" rel="stylesheet">
+.nigger img{
+    width: 600px;
+    height: 300px;
 }
-p {
-    color: aliceblue;
-    padding-left: 5%;
-
+.nigger1488{
+    font-size: 30px;
 }
-img{
-    padding-left: 45%;
+.nig h1{
+    font-size: 55px;
+    font-family: "Comforter", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+h2{
+    font-size: 40px;
+}
+.grishadaun{
+    font-size: 35px;
+    font-family: "Shafarik", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+.grishadaun img{
+    width: 800px;
+    height: 500pх;
+}
+h6{
+    font-size: 35px;
+}
+.digger{
+    font-size: 35pх;
+}
+.puk{
+    font-size: 30px;
+}
+.chai{
+    font-family: "Sofia Sans Extra Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+body{
+    background-color: bisque;
 }
