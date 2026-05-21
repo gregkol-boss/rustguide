@@ -1,0 +1,18 @@
+h1{
+    color: red;
+    text-align: center;
+}
+body {
+    background-color: rgb(0, 0, 0);
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playwrite+NO:wght@100..400&family=Rubik+Spray+Paint&display=swap" rel="stylesheet">
+}
+p {
+    color: aliceblue;
+    padding-left: 5%;
+
+}
+img{
+    padding-left: 45%;
+}

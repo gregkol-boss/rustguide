@@ -1,0 +1,18 @@
+h1 {
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+}
+.anil{
+    font-size: 30px;
+    align-items: center;
+    font-family: "Bad Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+img {
+    width: 700px;
+    height: 450px;
+    align-items: left;
+}
